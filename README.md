@@ -1,4 +1,3 @@
-````markdown
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Kasib%20Zinar&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=32" alt="Header" />
 </div>
@@ -34,7 +33,8 @@ const kasib = {
     'I love creating exceptional digital experiences that are fast, accessible, and visually appealing',
 };
 ```
-````
+
+I'm a passionate frontend developer with a focus on creating exceptional digital experiences. I specialize in building fast, accessible, visually appealing, and responsive web applications. Even though I've been creating web applications, I still love it as if it was something new.
 
 ---
 
@@ -48,12 +48,14 @@ const kasib = {
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-### Learning
+### Currently Learning
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
@@ -88,8 +90,9 @@ A modern, responsive portfolio website with dark/light mode, interactive feature
 
 - 🔨 Building responsive web applications
 - 🎨 Creating beautiful UI/UX designs
-- 📚 Learning modern frontend technologies
+- 📚 Learning modern frontend technologies (TypeScript, React, Next.js)
 - 🚀 Improving my coding skills daily
+- ✨ Contributing to open source projects
 
 ---
 
@@ -111,6 +114,7 @@ A modern, responsive portfolio website with dark/light mode, interactive feature
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kasib-zinar)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kasibzinar)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kasibgulzadran533@gmail.com)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/@kasibzinar)
 
 </div>
 
@@ -125,4 +129,3 @@ A modern, responsive portfolio website with dark/light mode, interactive feature
 ![Profile Views](https://komarev.com/ghpvc/?username=kasibzinar&color=blueviolet&style=for-the-badge)
 
 </div>
-```
