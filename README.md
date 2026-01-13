@@ -34,7 +34,7 @@ const kasib = {
 };
 ```
 
-I'm a passionate frontend developer with a focus on creating exceptional digital experiences. I specialize in building fast, accessible, visually appealing, and responsive web applications. Even though I've been creating web applications, I still love it as if it was something new.
+I'm a passionate frontend developer with a focus on creating exceptional digital experiences. I specialize in building fast, accessible, visually appealing, and responsive web applications.
 
 ---
 
@@ -83,26 +83,6 @@ A modern, responsive portfolio website with dark/light mode, interactive feature
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kasibzinar/My-Portfolio)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://kasibzinarportfolio.vercel.app/)
-
----
-
-## 💡 What I'm Working On
-
-- 🔨 Building responsive web applications
-- 🎨 Creating beautiful UI/UX designs
-- 📚 Learning modern frontend technologies (TypeScript, React, Next.js)
-- 🚀 Improving my coding skills daily
-- ✨ Contributing to open source projects
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kasibzinar&theme=redical&hide_border=true&bg_color=0D1117)
-
-</div>
 
 ---
 
