@@ -15,21 +15,6 @@
 
 ---
 
-## 🚀 About Me
-
-```javascript
-const kasib = {
-  role: 'Frontend Developer',
-  location: 'Khost, Afghanistan',
-  education: 'Studying Computer Science',
-  status: 'Available for new projects',
-  interests: ['Web Development', 'UI/UX Design', 'Learning New Technologies'],
-  currentlyLearning: ['TypeScript', 'React', 'Next.js'],
-  funFact:
-    'I love creating exceptional digital experiences that are fast, accessible, and visually appealing',
-};
-```
-
 I'm a passionate frontend developer with a focus on creating exceptional digital experiences. I specialize in building fast, accessible, visually appealing, and responsive web applications.
 
 ---
