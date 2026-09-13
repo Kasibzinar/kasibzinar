@@ -1,7 +1,6 @@
 <table>
   <tr>
     <td width="120" valign="top">
-      <img src="https://github.com/Kasibzinar.png?size=160" alt="Kasib Zinar" width="110" style="border-radius:12px" />
     </td>
     <td valign="top">
       <h1 style="margin:0">Hi — I'm Kasib Zinar 👋</h1>
