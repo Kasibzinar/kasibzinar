@@ -1,16 +1,9 @@
-<table>
-  <tr>
-    <td width="120" valign="top">
-    </td>
-    <td valign="top">
+
       <h1 style="margin:0">Hi — I'm Kasib Zinar 👋</h1>
       <p style="margin:6px 0 0 0; color:#444">
         Computer Science student • Front‑End Developer • React.js developer  
         I build practical, user‑focused web interfaces and am developing toward a career as a Full‑Stack Software Engineer.
       </p>
-    </td>
-  </tr>
-</table>
 
 ---
 
