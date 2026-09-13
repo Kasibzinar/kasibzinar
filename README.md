@@ -1,24 +1,24 @@
-# Hi, I'm Kasib Zinar 馃憢
+# Hi, I'm Kasib Zinar 👋
 
-### Computer Science Student 鈥� Front-End Developer 鈥� React.js
+### Computer Science Student • Front-End Developer • React.js
 
-I鈥檓 a Computer Science student who enjoys turning ideas into clean, useful, and interactive web applications.
+I’m a Computer Science student who enjoys turning ideas into clean, useful, and interactive web applications.
 
 My main focus is JavaScript and React.js. I learn best by building real projects, solving problems, debugging mistakes, and understanding how things work.
 
 ---
 
-## 馃殌 What I'm Working On
+## 🚀 What I'm Working On
 
-- 鈿涳笍 Building projects with **React.js**
-- 馃 Improving my **JavaScript and problem-solving skills**
-- 馃寪 Learning more about **full-stack web development**
-- 馃 Exploring **AI-powered web applications**
-- 馃摎 Strengthening my Computer Science foundation through **DSA, networking, operating systems, and software engineering**
+- ⚛️ Building projects with **React.js**
+- 🧠 Improving my **JavaScript and problem-solving skills**
+- 🌐 Learning more about **full-stack web development**
+- 🤖 Exploring **AI-powered web applications**
+- 📚 Strengthening my Computer Science foundation through **DSA, networking, operating systems, and software engineering**
 
 ---
 
-## 馃洜锔� Technologies & Tools
+## 🛠️ Technologies & Tools
 
 **Frontend**
 
@@ -34,9 +34,9 @@ My main focus is JavaScript and React.js. I learn best by building real projects
 
 ---
 
-## 馃搶 Featured Projects
+## 📌 Featured Projects
 
-### 馃摑 Smart Task Management System
+### 📝 Smart Task Management System
 
 A Trello/Asana-style task management application built to practice real-world React development.
 
@@ -48,37 +48,43 @@ A Trello/Asana-style task management application built to practice real-world Re
 - Local Storage for persistence
 - Responsive interface
 
-**Built with:** React.js 鈥� JavaScript 鈥� React Router 鈥� Context API 鈥� Tailwind CSS 鈥� Local Storage
+**Built with:** React.js • JavaScript • React Router • Context API • Tailwind CSS • Local Storage
 
-### 馃泹锔� ShopCo 鈥� E-commerce Website
+---
+
+### 🛍️ ShopCo — E-commerce Website
 
 A responsive clothing e-commerce interface built to practice modern HTML and CSS.
 
-**Built with:** HTML 鈥� CSS
+**Built with:** HTML • CSS
 
-### 馃挵 Crypto Dashboard
+---
+
+### 💰 Crypto Dashboard
 
 A dashboard interface focused on presenting cryptocurrency-related information in a clean and organized way.
 
-**Built with:** HTML 鈥� CSS 鈥� JavaScript
+**Built with:** HTML • CSS • JavaScript
 
-### 馃寪 Personal Portfolio
+---
+
+### 🌐 Personal Portfolio
 
 My personal portfolio where I showcase my projects, skills, and journey as a developer.
 
 ---
 
-## 馃尡 My Learning Approach
+## 🌱 My Learning Approach
 
 I believe the best way to become a better developer is not to memorize code, but to understand problems and build things.
 
-> Learn 鈫� Build 鈫� Break 鈫� Debug 鈫� Understand 鈫� Repeat
+> Learn → Build → Break → Debug → Understand → Repeat
 
 I'm currently working toward becoming a strong **full-stack software engineer**, with a particular interest in web applications and modern frontend development.
 
 ---
 
-## 馃搳 GitHub
+## 📊 GitHub
 
 <div align="center">
 
@@ -90,17 +96,17 @@ I'm currently working toward becoming a strong **full-stack software engineer**,
 
 ---
 
-## 馃 Let's Connect
+## 🤝 Let's Connect
 
-- 馃捈 **LinkedIn:** [Kasib Zinar](YOUR_LINKEDIN_URL)
-- 馃寪 **Portfolio:** [My Portfolio](YOUR_PORTFOLIO_URL)
-- 馃摟 **Email:** YOUR_EMAIL
+- 💼 **LinkedIn:** [Kasib Zinar](YOUR_LINKEDIN_URL)
+- 🌐 **Portfolio:** [My Portfolio](YOUR_PORTFOLIO_URL)
+- 📧 **Email:** YOUR_EMAIL
 
 ---
 
 <div align="center">
 
-### Thanks for visiting my profile! 馃憢
+### Thanks for visiting my profile! 👋
 
 *Building projects, learning from mistakes, and getting better one step at a time.*
 
