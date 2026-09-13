@@ -1,84 +1,122 @@
 <table>
   <tr>
     <td width="120" valign="top">
-      <img src="https://github.com/Kasibzinar.png?size=160" alt="Kasib Zinar" width="110" style="border-radius:12px"/>
+      <img src="https://github.com/Kasibzinar.png?size=160" alt="Kasib Zinar" width="110" style="border-radius:12px" />
     </td>
     <td valign="top">
       <h1 style="margin:0">Hi — I'm Kasib Zinar 👋</h1>
-      <p style="margin-top:6px; margin-bottom:0; color:#444">Computer Science student • Front‑end developer focused on JavaScript & React</p>
-      <p style="margin-top:10px; color:#333">I build practical web interfaces and thoughtful front‑end experiences. I combine a computer science foundation with hands‑on projects to grow toward full‑stack development.</p>
+      <p style="margin:6px 0 0 0; color:#444">
+        Computer Science student • Front‑End Developer • React.js developer  
+        I build practical, user‑focused web interfaces and am developing toward a career as a Full‑Stack Software Engineer.
+      </p>
     </td>
   </tr>
 </table>
 
 ---
 
+<div align="center">
+  <!-- Minimal, non-intrusive badges -->
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" />
+  <img alt="React" src="https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black" />
+  <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=flat-square&logo=tailwindcss&logoColor=white" />
+</div>
+
+---
+
 ## About
 
-A concise, evergreen summary of who I am and the work I do:
+A concise, evergreen summary:
 
-- Identity: Computer Science student • Front‑End Developer • React.js developer
-- Academic background: Bachelor of Computer Science, Shaikh Zayed University
-- Long‑term direction: developing toward a career as a Full‑Stack Software Engineer
-- Main interests: modern web development (JavaScript + React) and building practical, usable interfaces
+- Identity: Computer Science student • Front‑End Developer • React.js developer  
+- Academic background: Bachelor of Computer Science, Shaikh Zayed University  
+- Long‑term direction: developing toward a career as a Full‑Stack Software Engineer  
+- Focus: modern web development (JavaScript + React) and building practical, usable interfaces  
+- Approach: hands‑on learning through projects and thoughtful iteration
 
 ---
 
 ## Tech & skills
 
-A focused list of technologies and CS topics I use and study. This is intentionally conservative and reflects practical experience rather than claimed expertise.
+These are technologies and core computer science topics I work with and study. Presented conservatively — not a claim of seniority.
 
-- Frontend: HTML5 • CSS3 • JavaScript • React.js • React Router • Context API • Tailwind CSS • responsive design
-- Programming / CS fundamentals: JavaScript • Java • data structures • algorithms • SQL • computer networks • operating systems • software engineering
-- Tools: Git • GitHub • VS Code • Figma
+- Frontend: HTML5 · CSS3 · JavaScript · React.js · React Router · Context API · Tailwind CSS · responsive design  
+- Programming / CS fundamentals: JavaScript · Java · data structures · algorithms · SQL · computer networks · operating systems · software engineering principles  
+- Tools: Git · GitHub · VS Code · Figma
 
 ---
 
 ## Featured projects (evergreen summaries)
 
-Below are concise descriptions that explain what each project demonstrates. For code and implementation details, see the repositories inside my profile.
+Each entry describes what the project demonstrates. For implementation details, see the project repository.
 
-- Smart Task Management System — A Trello/Asana–style task manager built with React. Demonstrates component composition, client‑side routing, state management, CRUD flows, reusable UI, and local persistence (Local Storage).
+<details>
+  <summary><strong>Smart Task Management System</strong></summary>
 
-- ShopCo — E‑commerce interface — A responsive storefront interface created to practice layouts, responsive behavior, and accessible UI structure.
+  A Trello/Asana–style frontend task manager built with React. Demonstrates:
+  - component composition and reusable UI
+  - client‑side routing and dynamic routes
+  - state management and CRUD flows
+  - Local Storage persistence for user data
 
-- Crypto Dashboard — A clean, information‑focused dashboard that presents cryptocurrency data through a simple and usable interface.
+  Technologies: React.js · JavaScript · React Router · Context API · Tailwind CSS · Local Storage
+</details>
 
-- Personal Portfolio — A portfolio site that showcases projects, skills, and developer interests.
+<details>
+  <summary><strong>ShopCo — E‑commerce interface</strong></summary>
 
-Portfolio: https://kasibgul.github.io/My-Portfolio/
+  A responsive storefront interface focused on layout, responsive behavior, and accessible UI structure.
 
-> Note: these summaries are written to remain meaningful over time. For specific implementation notes, open the repository READMEs.
+  Technologies: HTML · CSS
+</details>
+
+<details>
+  <summary><strong>Crypto Dashboard</strong></summary>
+
+  A clean, information‑focused dashboard showcasing a simple presentation of cryptocurrency data with emphasis on clarity and usability.
+
+  Technologies: HTML · CSS · JavaScript
+</details>
+
+<details>
+  <summary><strong>Personal Portfolio</strong></summary>
+
+  A portfolio site that presents projects, skills, and development interests.
+
+  Portfolio: https://kasibgul.github.io/My-Portfolio/
+</details>
 
 ---
 
 ## Computer science foundation
 
-My studies and practical work include core topics that I apply when building software:
+Core topics I apply in projects and study:
 
-- Programming and software design
-- Data structures & algorithms
-- Databases & SQL
-- Computer networks and operating systems fundamentals
-- Computer architecture and software engineering principles
+- Programming and software design  
+- Data structures & algorithms  
+- Databases & SQL  
+- Computer networks and operating systems fundamentals  
+- Computer architecture and software engineering principles  
 - Probability & statistics (applied when relevant)
 
-I aim to combine this foundation with practical development to build reliable, maintainable systems.
+This foundation supports practical software work and helps me build reliable, maintainable solutions.
 
 ---
 
 ## React & web development focus
 
-My primary practical work is modern front‑end development with JavaScript and React. Concepts and patterns I have worked with include:
+Practical areas I work with and continue to deepen through projects:
 
-- Components, props, and state (useState, useEffect)
-- Conditional and list rendering; reusable components
-- Client‑side routing and dynamic routes (React Router)
-- Context API and custom hooks for shared logic
-- Local Storage persistence and basic CRUD flows
-- Fundamentals of state management and Redux/Redux Toolkit concepts
+- Components, props, and state (useState, useEffect)  
+- Conditional and list rendering; building reusable components  
+- Client‑side routing and dynamic routes (React Router)  
+- Context API and custom hooks for shared logic  
+- Local Storage persistence and basic CRUD flows  
+- Fundamentals of state management (Redux/Redux Toolkit concepts)
 
-These are presented as areas I work with and continue to practice through projects.
+Presented as topics I have worked with — not as definitive expert claims.
 
 ---
 
@@ -86,13 +124,13 @@ These are presented as areas I work with and continue to practice through projec
 
 Learn → Build → Break → Debug → Understand → Repeat
 
-I prefer hands‑on learning by building projects and iterating. Debugging and deliberate practice are central to how I improve.
+I prioritize building real things to deepen understanding. Iteration and debugging are central to skill growth.
 
 ---
 
 ## AI & future direction
 
-I am interested in the intersection of AI and web development and explore practical ways AI can enhance user experiences and developer tools. This is an area of ongoing learning and experimentation — not a formal job title.
+I’m interested in the intersection of AI and web development and explore practical ways AI can enhance user experiences and developer tools. This is an area of ongoing exploration and experimentation — not a job title.
 
 Long‑term trajectory: Frontend → APIs → Backend → Databases → Authentication → Deployment → AI integration → Full‑Stack applications
 
@@ -100,15 +138,14 @@ Long‑term trajectory: Frontend → APIs → Backend → Databases → Authenti
 
 ## Contact
 
-- Portfolio: https://kasibgul.github.io/My-Portfolio/
-- GitHub: https://github.com/Kasibzinar
-- LinkedIn: [placeholder — will provide]
+- Portfolio: https://kasibgul.github.io/My-Portfolio/  
+- GitHub: https://github.com/Kasibzinar  
+- LinkedIn: [placeholder — will provide]  
 - Email: [placeholder — will provide]
+
+(Replace placeholders with your preferred contact links when ready. No invented links included.)
 
 ---
 
-<!-- OPTIONAL: If you want to show GitHub cards/stats, uncomment and use a trusted card service. Stats are intentionally optional and not required for this profile to look complete. Example (third‑party image):
-
-![Kasib Zinar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kasibzinar&show_icons=true&theme=default)
-
--->
+<!-- Optional: small note for maintainers -->
+<p style="color:#666; font-size:0.9em">This README is written to be evergreen: it focuses on skills, projects, and direction rather than short‑lived status updates. It will remain professional and relevant over time.</p>
