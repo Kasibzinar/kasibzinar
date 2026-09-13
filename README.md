@@ -1,86 +1,107 @@
+# Hi, I'm Kasib Zinar 馃憢
 
+### Computer Science Student 鈥� Front-End Developer 鈥� React.js
+
+I鈥檓 a Computer Science student who enjoys turning ideas into clean, useful, and interactive web applications.
+
+My main focus is JavaScript and React.js. I learn best by building real projects, solving problems, debugging mistakes, and understanding how things work.
+
+---
+
+## 馃殌 What I'm Working On
+
+- 鈿涳笍 Building projects with **React.js**
+- 馃 Improving my **JavaScript and problem-solving skills**
+- 馃寪 Learning more about **full-stack web development**
+- 馃 Exploring **AI-powered web applications**
+- 馃摎 Strengthening my Computer Science foundation through **DSA, networking, operating systems, and software engineering**
+
+---
+
+## 馃洜锔� Technologies & Tools
+
+**Frontend**
+
+`HTML5` `CSS3` `JavaScript` `React.js` `React Router` `Tailwind CSS`
+
+**Programming & CS**
+
+`Java` `Data Structures & Algorithms` `SQL`
+
+**Tools**
+
+`Git` `GitHub` `VS Code` `Figma`
+
+---
+
+## 馃搶 Featured Projects
+
+### 馃摑 Smart Task Management System
+
+A Trello/Asana-style task management application built to practice real-world React development.
+
+- Create, edit, delete, and complete tasks
+- Task filtering and status management
+- Dynamic routes and task details
+- Reusable React components
+- Context API for shared state
+- Local Storage for persistence
+- Responsive interface
+
+**Built with:** React.js 鈥� JavaScript 鈥� React Router 鈥� Context API 鈥� Tailwind CSS 鈥� Local Storage
+
+### 馃泹锔� ShopCo 鈥� E-commerce Website
+
+A responsive clothing e-commerce interface built to practice modern HTML and CSS.
+
+**Built with:** HTML 鈥� CSS
+
+### 馃挵 Crypto Dashboard
+
+A dashboard interface focused on presenting cryptocurrency-related information in a clean and organized way.
+
+**Built with:** HTML 鈥� CSS 鈥� JavaScript
+
+### 馃寪 Personal Portfolio
+
+My personal portfolio where I showcase my projects, skills, and journey as a developer.
+
+---
+
+## 馃尡 My Learning Approach
+
+I believe the best way to become a better developer is not to memorize code, but to understand problems and build things.
+
+> Learn 鈫� Build 鈫� Break 鈫� Debug 鈫� Understand 鈫� Repeat
+
+I'm currently working toward becoming a strong **full-stack software engineer**, with a particular interest in web applications and modern frontend development.
+
+---
+
+## 馃搳 GitHub
 
 <div align="center">
-  
-# 👨‍💻 Hi, I'm Kasib Zinar
 
-**Frontend Developer | CS Student**
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub Stats" />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://kasibzinarportfolio.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kasibgulzadran533@gmail.com)
-
-📍 **Khost, Afghanistan** | 🟢 **Available for new projects**
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" alt="Top Languages" />
 
 </div>
 
 ---
 
-I'm a passionate frontend developer with a focus on creating exceptional digital experiences. I specialize in building fast, accessible, visually appealing, and responsive web applications.
+## 馃 Let's Connect
 
----
-
-## 🛠️ Tech Stack
-
-### Languages & Tools
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-### Currently Learning
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kasibzinar&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kasibzinar&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
-
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=kasibzinar&theme=radical&hide_border=true&background=0D1117)
-
-</div>
-
----
-
-## 🎯 Featured Projects
-
-### 🎨 [Personal Portfolio](https://kasibzinarportfolio.vercel.app/)
-
-A modern, responsive portfolio website with dark/light mode, interactive features, and smooth animations.
-
-**Tech:** HTML5 | CSS3 | JavaScript | Figma
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kasibzinar/My-Portfolio)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://kasibzinarportfolio.vercel.app/)
-
----
-
-## 🤝 Let's Connect!
-
-<div align="center">
-  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://kasibzinarportfolio.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kasibzinar)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kasibgulzadran533@gmail.com)
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/@kasibzinar)
-
-</div>
+- 馃捈 **LinkedIn:** [Kasib Zinar](YOUR_LINKEDIN_URL)
+- 馃寪 **Portfolio:** [My Portfolio](YOUR_PORTFOLIO_URL)
+- 馃摟 **Email:** YOUR_EMAIL
 
 ---
 
 <div align="center">
-  
-### ⭐️ From [Kasib Zinar](https://github.com/kasibzinar)
 
-**Thanks for visiting my profile!** 😊
+### Thanks for visiting my profile! 馃憢
 
-![Profile Views](https://komarev.com/ghpvc/?username=kasibzinar&color=blueviolet&style=for-the-badge)
+*Building projects, learning from mistakes, and getting better one step at a time.*
 
 </div>
